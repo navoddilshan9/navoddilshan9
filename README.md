@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Green Line <br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>📝 I regularly write articles on https://medium.com/@navoddilshan9<br><br>📫 How to reach me navoddilshan9@gmail.com
+<!-- 🔭 I’m currently working on Green Line <br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>📝 I regularly write articles on https://medium.com/@navoddilshan9<br><br>📫 How to reach me navoddilshan9@gmail.com -->
 
 
 ## 🌐 Socials:
